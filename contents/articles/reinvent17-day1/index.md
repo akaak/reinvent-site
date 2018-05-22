@@ -12,3 +12,6 @@ Day 1 at the AWS Reinvent 2017
 
 ### Check-In desk
 ![Check-in Desk](reg-desk.jpg)
+
+
+.update
