@@ -8,7 +8,6 @@ template: article.jade
 Day 1 at the AWS Reinvent 2017
 
 ### Ask Me blue shirt helpers around town
-![at Aria](aria-helper1.jpg)
 
 
 ### Check-In desk
