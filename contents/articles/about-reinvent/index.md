@@ -9,7 +9,7 @@ This is an experimental project for articles, tutorials, and information on Amaz
 
 Built using...
 
-- static site generator: <wintersmith>
+- [Wintersmith](https://github.com/jnordberg/wintersmith) static site generator
 - published to AWS S3
 - aws javascript sdk + grunt plugins to publish to S3
 
