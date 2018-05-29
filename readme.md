@@ -7,6 +7,8 @@ _**ReInvent Site**_ covers all things related to Amazon's amazon web services (A
 
 - [ReInvent](https://reinvent.awsevents.com/)  Conference Website
 
+- [AWS Summits](https://aws.amazon.com/summits/) Website
+
 - [Cloud Computing](https://aws.amazon.com/what-is-cloud-computing/)
 
 - [AWS](https://aws.amazon.com/)
