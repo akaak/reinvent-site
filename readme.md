@@ -20,7 +20,7 @@ This project's github [repository](https://github.com/akaak/reinvent-site).
 
   `$ wintersmith preview` 
 
-- Build the site in HTML from the markdown contents. The build site will be in the `build` directory
+- Build the site in HTML from the markdown contents. The built site will be in the `build` directory
 
   `$ wintersmith build` 
 
