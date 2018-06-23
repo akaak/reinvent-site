@@ -52,14 +52,14 @@ PRE-REQUISITES:
 `(awsdev) ak@~/dev/grunt-test $ grunt --gruntfile SiteGruntfile.js s3`
 
 4. Invalidate CloudFront distribution 
+
 `aws cloudfront create-invalidation --profile dev1 --distribution-id E22QFH4AJ09999 --paths /articles/* `
 
 ## Other useful Information:
 
-###Listing CloudFront distributions
+### Listing CloudFront distributions
 
-aws cloudfront list-distributions --profile dev1
-
+`$ aws cloudfront list-distributions --profile dev1`
 
 *In Gruntfile*
 
