@@ -7,12 +7,34 @@ _**ReInvent Site**_ covers all things related to Amazon's amazon web services (A
 
 - [ReInvent](https://reinvent.awsevents.com/)  Conference Website
 
+- [AWS Summits](https://aws.amazon.com/summits/) Website
+
 - [Cloud Computing](https://aws.amazon.com/what-is-cloud-computing/)
 
 - [AWS](https://aws.amazon.com/)
 
 
 This project's github [repository](https://github.com/akaak/reinvent-site).
+
+### How to Publish updates?
+
+- Preview the site on localhost at http://localhost:8080
+
+  `$ wintersmith preview` 
+
+- Build the site in HTML from the markdown contents. The built site will be in the `build` directory
+
+  `$ wintersmith build` 
+
+- Push the website files from 'build' directory to the AWS S3 bucket. Uses aws access keys located in the `.aws.json` file to connect to push the files to the S3
+
+  `$ grunt s3` 
+
+- Invalidate the CloudFront distribution from AWS cli (activate virtualenv and go to aws cli)
+
+  `$ aws cloudfront create-invalidation --profile ak --distribution-id  E22QFH4ACFTODO --paths /articles/*`
+
+
 
 ### How this site is built:
 
