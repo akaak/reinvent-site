@@ -3,7 +3,7 @@
     "url": "",
     "name": "Reinvent IT",
     "owner": "AK",
-    "description": "Reinvent in the Cloud "
+    "description": "Reinvent in the Cloud"
   },
   "plugins": [
     "./plugins/paginator.coffee"
