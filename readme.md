@@ -35,6 +35,7 @@ This project's github [repository](https://github.com/akaak/reinvent-site).
   `$ aws cloudfront create-invalidation --profile ak --distribution-id  E22QFH4ACFTODO --paths /articles/*`
 
 
+On Local machine, run all these commands using reinvent_publish.sh to publish the site to AWS S3.
 
 ### How this site is built:
 
