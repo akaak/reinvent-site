@@ -8,7 +8,7 @@ template: article.jade
 
 #### ReInvent 2017 Sessions
 
-- Event Sessions lookup/listing: <https://www.portal.reinvent.awsevents.com/connect/search.ww>
+
 
 - Forty (40) Tracks ranging from AdTech, Alexa to Databases to IoT to Serverless to Windows
 
