@@ -5,7 +5,7 @@ date: 2017-10-31
 template: article.jade
 ---
 
-This is an experimental project for articles, tutorials, and information on Amazon AWS Cloud related services/products/tools.
+This is an informational project for articles, tutorials, and news on Amazon AWS Cloud related services/products/tools.
 
 Built using...
 
@@ -13,7 +13,7 @@ Built using...
 - published to AWS S3
 - aws javascript sdk + grunt plugins to publish to S3
 
-On AWS...
+Delivered via AWS...
 
 - Site DNS (reinvent.site) configured via Route 53 to CloudFront Distribution
 - CloudFront points to the S3 bucket
