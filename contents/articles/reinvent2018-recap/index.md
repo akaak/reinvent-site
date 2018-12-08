@@ -61,9 +61,10 @@ _“Even though we have a lot of customers that run blockchain on top of us, we 
 
 But going back to that unique theme of machine learning, one of the advantages of cloud is that is meant to simplify computing for everyone. But as one size does not fit all, AWS has grown its portfolio of EC2 instances and managed services over the years to the point where choosing the right mix can be daunting. A helpful move toward that direction is a new intelligent tiering service for S3 storage that uses machine learning to determine if your data can be moved to a cooler, cheaper tier. But we're awaiting the day when AWS finally unveils a machine learning tool that analyzes your workload and data to recommend the best combination of EC2 instances.
 
-The strength of the event and the AWS could be seen by looking at hundreds of [sponsors](https://reinvent.awsevents.com/partners-sponsors/sponsor-list/) and partners (~close to 400 of them) that were set up on the Venetian's grand expo floor. These are the likes of heavy weights such as Accenture, VMWare, Tableau, Cisco, HP Enterprise and other big players such as Atlassian, CloudCheckr, Gitlab, HashiCorp, Elastic, etc. 
+The strength of the event and the AWS could be seen by looking at hundreds of [sponsors](https://reinvent.awsevents.com/partners-sponsors/sponsor-list/) and partners (~ close to 400 of them) that were set up on the Venetian's grand expo floor. These are the likes of heavy weights such as Accenture, VMWare, Tableau, Cisco, HP Enterprise and other big players such as Atlassian, CloudCheckr, Gitlab, HashiCorp, Elastic, etc.
 
-![AWS re:Invent 2018 Sponsors](reinvent-2018-sponsors.png)
+
+![AWS re:Invent 2018 Sponsors](reinvent-2018-sponsors.png) 
 
 <sub>(Image courtesy: sample of sponsors list screenshot from the AWS re:Invent sponsors web page)</sub>
 
