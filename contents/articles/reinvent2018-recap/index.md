@@ -10,11 +10,11 @@ summary: Amazon Web Services (AWS) reinvent 2018 recap
 ## AWS re:Invent 2018 Recap
 
 
-As we all know, the AWS re:Invent is a learning conference hosted by Amazon web services for the global cloud computing community. What I like about this conference is that everyone has a chance of learning something new. There are plenty of options to learn, network with others and have fun! There is even a dedicated [unofficial website](http://conferenceparties.com/reinvent2018/) for the re:Invent related parties!
+As we all know, the AWS re:Invent is a learning conference hosted by Amazon Web Services (AWS) for the global cloud computing community. What I like about this conference is that everyone has a chance of learning something new. There are plenty of options to learn, network with others and have fun! There is even a dedicated [unofficial website](http://conferenceparties.com/reinvent2018/) for the re:Invent related parties!
 
 It’s all kind of too easy to get worn out by the 50,000+ attendees which surpassed that of last year, jamming multiple hotels the length of the Las Vegas strip, from Mandalay Bay on the south to the Wynn and Encore to the north.
 
-We recap everything that happened at the AWS re-invent at Las Vegas and this highlighted Services for AI, blockchain tools, security and compliance, machine learning, analytics and big data and a lot of hatred for Oracle were revealed.
+We recap everything that happened at the AWS re-invent at Las Vegas and this highlighted Services for AI, blockchain tools, security and compliance, machine learning, analytics and big data and some snark aimed at Oracle.
 
 The Session overview at the AWS re:invent included:
 
@@ -77,3 +77,4 @@ Some useful Links:
 
 - AWS Online [Tech Talks](https://aws.amazon.com/blogs/aws/learn-about-new-aws-reinvent-launches-december-aws-online-tech-talks/) as a follow up to the AWS re:Invent 2018 product and service announcements.
 
+Now, using AWS CTO Dr. Werner Vogels' famous parting instruction, 'GO BUILD!'.
