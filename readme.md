@@ -38,7 +38,7 @@ This project's github [repository](https://github.com/akaak/reinvent-site).
 On Local machine, run all these commands using reinvent_publish.sh to publish the site to AWS S3.
 
 
-### How this site is built:
+### How this site is built?
 
 - Built as a static site using Grunt for build, AWS S3 for site storage, and Wintersmith static site generator
 
@@ -48,5 +48,4 @@ On Local machine, run all these commands using reinvent_publish.sh to publish th
 
 - Wintersmith [documentation](https://github.com/jnordberg/wintersmith#quick-start) provides information on adding articles for the site
 
-- 
 
